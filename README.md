@@ -31,3 +31,9 @@ The model includes separate activity and publication date tables, with 40 measur
 Download [Newsroom.pbix](Newsroom.pbix) and open it in Power BI Desktop.
 
 Report previews are available in the [screenshots folder](screenshots).
+
+## View the report
+
+[Explore the interactive report](https://app.powerbi.com/view?r=eyJrIjoiNmYxMjY1ZWQtYjQ2YS00MmFlLWEwNDMtNGFhNjMzMjkyMDU0IiwidCI6ImQ5NjQ2ZTQyLTUzMWQtNDBlNC1hMDQ3LTBkOGU3ZDFhNmNlNCIsImMiOjl9) in your browser.
+
+You can also download [Newsroom.pbix](Newsroom.pbix) to open it in Power BI Desktop, or browse the [screenshots](screenshots) for a quick preview.
